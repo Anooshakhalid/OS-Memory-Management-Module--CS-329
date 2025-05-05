@@ -44,10 +44,10 @@ OS-Memory-Management-CS329/
 
 ## Output
 
-![alt text](../readme_images/image1.png)
-![alt text](../readme_images/image2.png)
-![alt text](../readme_images/image3.png)
-![alt text](../readme_images/image4.png)
+![alt text](readme_images/image1.png)
+![alt text](readme_images/image2.png)
+![alt text](readme_images/image3.png)
+![alt text](readme_images/image4.png)
 
 ## Prerequisites
 
