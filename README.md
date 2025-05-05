@@ -34,21 +34,7 @@ Input is provided via a `.txt` file named as "process.txt"
 
 See `memory-module/` for code, and `processes/` for sample input.
 
-OS-Memory-Management-CS329/
-├── README.md
-├── memory_module/
-│   ├── memory_management.c
-│   ├── processes/
-│   │   └── process.txt
-├── docs/
-│   ├── OEL-Report.pdf
-│   └── problem-statement.pdf
-└── readme_images/
-    ├── image1.png
-    ├── image2.png
-    ├── image3.png
-    └── image4.png
- 
+<pre> ``` OS-Memory-Management-CS329/ ├── README.md ├── memory_module/ │ ├── memory_management.c │ └── processes/ │ └── process.txt ├── docs/ │ ├── OEL-Report.pdf │ └── problem-statement.pdf └── readme_images/ ├── image1.png ├── image2.png ├── image3.png └── image4.png ``` </pre>
 
 ## Output
 
