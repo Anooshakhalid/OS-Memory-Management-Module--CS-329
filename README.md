@@ -1,4 +1,4 @@
-# OS-Memory-Management-Module--CS-3
+# OS-Memory-Management-Module--CS-329
 This project simulates a memory management module for an Operating System using **Fixed Paging Technique**, as part of the CS-329 Operating Systems course.
 
 ## Features
@@ -40,7 +40,14 @@ OS-Memory-Management-CS329/
 │   ├── process.txt     
 ├── docs/
 │   ├── report.pdf               
-└── readme_images            
+└── readme_images   
+
+## Output
+
+![alt text](../readme_images/image1.png)
+![alt text](../readme_images/image2.png)
+![alt text](../readme_images/image3.png)
+![alt text](../readme_images/image4.png)
 
 ## Prerequisites
 
@@ -55,11 +62,5 @@ To compile and run the C program:
 ```bash
 gcc memory_management.c -o memory_management
 ./memory_management
-
-![alt text](..\readme_images\image1.png)
-![alt text](..\readme_images\image2.png)
-![alt text](..\readme_images\image3.png)
-![alt text](..\readme_images\image4.png)
-
 
 
