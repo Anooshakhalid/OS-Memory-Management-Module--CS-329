@@ -38,11 +38,17 @@ OS-Memory-Management-CS329/
 ├── README.md
 ├── memory_module/
 │   ├── memory_management.c
-├── processes/
-│   ├── process.txt     
+│   ├── processes/
+│   │   └── process.txt
 ├── docs/
-│   ├── report.pdf               
-└── readme_images   
+│   ├── OEL-Report.pdf
+│   └── problem-statement.pdf
+└── readme_images/
+    ├── image1.png
+    ├── image2.png
+    ├── image3.png
+    └── image4.png
+ 
 
 ## Output
 
