@@ -1,6 +1,8 @@
 # OS-Memory-Management-Module--CS-329
 This project simulates a memory management module for an Operating System using **Fixed Paging Technique**, as part of the CS-329 Operating Systems course.
 
+Group-Members: MahnoorZia | AnooshaKhalid | LaibaIqrar
+
 ## Features
 
 - Simulates the paging memory management technique
