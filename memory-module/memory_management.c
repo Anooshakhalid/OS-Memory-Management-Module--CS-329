@@ -187,7 +187,7 @@ int main() {
 
         if (e->type == REM) {
             print_event_header(e->time, "Process Termination", C_WARN);
-            printf(" → Freeing %d pages of P%d\n\n", p->allocated_count, p->pid);
+            printf(" -> Freeing %d pages of P%d\n\n", p->allocated_count, p->pid);
 
             for (int k = 0; k < p->allocated_count; k++) {
                 int f = p->allocated_frames[k];
@@ -201,7 +201,7 @@ int main() {
 
         } else {
             print_event_header(e->time, "Process Arrival", C_INFO);
-            printf(" → P%d needs %d pages\n\n", p->pid, p->num_pages);
+            printf(" -> P%d needs %d pages\n\n", p->pid, p->num_pages);
 
             int allocd = 0;
             while (free_list_head != -1 && allocd < p->num_pages) {
