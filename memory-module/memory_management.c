@@ -141,8 +141,8 @@ int main() {
 
     Process procs[MAX_PROCESSES];
     int n = 0;
-    FILE *fp = fopen("processes.txt", "r");
-    if (!fp) { perror("processes.txt"); return 1; }
+    FILE *fp = fopen("..processes/process.txt", "r");
+    if (!fp) { perror("../processes/process.txt"); return 1; }
 
     while (n < MAX_PROCESSES &&
            fscanf(fp, "%d %d %d",
